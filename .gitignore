@@ -1,0 +1,4 @@
+config.properties
+echo "javafx-sdk-26/"
+*.env
+
