@@ -1,4 +1,22 @@
+# Ignore config
 config.properties
-echo "javafx-sdk-26/"
 *.env
+
+# Ignore JavaFX SDK (IMPORTANT)
+javafx-sdk-26/
+
+# Ignore compiled files
+*.class
+*.dll
+*.exe
+*.jar
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
 
